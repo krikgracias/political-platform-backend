@@ -1,0 +1,109 @@
+{
+  "lastScan": "2025-09-28T01:01:04.621Z",
+  "updates": [
+    {
+      "id": "1759021137000",
+      "type": "candidate",
+      "title": "New candidate filing detected",
+      "description": "John Smith filed for Hernando County School Board District 2",
+      "source": "hernando_county_elections",
+      "discovered": "2025-09-28T00:58:57.000Z",
+      "data": {
+        "name": "John Smith",
+        "party": "Nonpartisan",
+        "election": "Hernando County School Board"
+      }
+    },
+    {
+      "id": "1759021142476",
+      "type": "candidate",
+      "title": "New candidate filing detected",
+      "description": "John Smith filed for Hernando County School Board District 2",
+      "source": "hernando_county_elections",
+      "discovered": "2025-09-28T00:59:02.476Z",
+      "data": {
+        "name": "John Smith",
+        "party": "Nonpartisan",
+        "election": "Hernando County School Board"
+      }
+    },
+    {
+      "id": "1759021146358",
+      "type": "candidate",
+      "title": "New candidate filing detected",
+      "description": "John Smith filed for Hernando County School Board District 2",
+      "source": "hernando_county_elections",
+      "discovered": "2025-09-28T00:59:06.358Z",
+      "data": {
+        "name": "John Smith",
+        "party": "Nonpartisan",
+        "election": "Hernando County School Board"
+      }
+    },
+    {
+      "id": "1759021149817",
+      "type": "candidate",
+      "title": "New candidate filing detected",
+      "description": "John Smith filed for Hernando County School Board District 2",
+      "source": "hernando_county_elections",
+      "discovered": "2025-09-28T00:59:09.817Z",
+      "data": {
+        "name": "John Smith",
+        "party": "Nonpartisan",
+        "election": "Hernando County School Board"
+      }
+    },
+    {
+      "id": "1759021234067",
+      "type": "candidate",
+      "title": "New candidate filing detected",
+      "description": "John Smith filed for Hernando County School Board District 2",
+      "source": "hernando_county_elections",
+      "discovered": "2025-09-28T01:00:34.068Z",
+      "data": {
+        "name": "John Smith",
+        "party": "Nonpartisan",
+        "election": "Hernando County School Board"
+      }
+    },
+    {
+      "id": "1759021255854",
+      "type": "candidate",
+      "title": "New candidate filing detected",
+      "description": "John Smith filed for Hernando County School Board District 2",
+      "source": "hernando_county_elections",
+      "discovered": "2025-09-28T01:00:55.854Z",
+      "data": {
+        "name": "John Smith",
+        "party": "Nonpartisan",
+        "election": "Hernando County School Board"
+      }
+    },
+    {
+      "id": "1759021260675",
+      "type": "candidate",
+      "title": "New candidate filing detected",
+      "description": "John Smith filed for Hernando County School Board District 2",
+      "source": "hernando_county_elections",
+      "discovered": "2025-09-28T01:01:00.675Z",
+      "data": {
+        "name": "John Smith",
+        "party": "Nonpartisan",
+        "election": "Hernando County School Board"
+      }
+    },
+    {
+      "id": "1759021264618",
+      "type": "candidate",
+      "title": "New candidate filing detected",
+      "description": "John Smith filed for Hernando County School Board District 2",
+      "source": "hernando_county_elections",
+      "discovered": "2025-09-28T01:01:04.618Z",
+      "data": {
+        "name": "John Smith",
+        "party": "Nonpartisan",
+        "election": "Hernando County School Board"
+      }
+    }
+  ]
+}

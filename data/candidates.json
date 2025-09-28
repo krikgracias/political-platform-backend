@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "Michelle Bonczek",
+    "party": "Nonpartisan",
+    "election": "Hernando County School Board",
+    "district": "District 1",
+    "status": "active",
+    "source": "manual_entry",
+    "createdAt": "2025-09-26T17:06:28.067Z"
+  },
+  {
+    "id": "2",
+    "name": "Kayce Hawkins",
+    "party": "Nonpartisan",
+    "election": "Hernando County School Board",
+    "district": "District 3",
+    "status": "active",
+    "source": "manual_entry",
+    "createdAt": "2025-09-26T17:06:28.068Z"
+  }
+]
